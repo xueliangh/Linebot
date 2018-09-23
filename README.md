@@ -1,7 +1,7 @@
 # Linebot
 用python撰寫的Linebot
 
-
+#computer run
 
 首先必須申請你的Linebot Developers
 
@@ -12,7 +12,7 @@
 在電腦端用cmd 執行Linebot_Reply_Wiki.py port預設80
 
 
-
+#Server
 
 需要再下載ngrok 
 
