@@ -8,7 +8,7 @@
 
 記得將後台的webhook打開
 
-在電腦端用cmd 執行Linebot_Reply_Wiki.py port預設80
+在電腦端用cmd 執行Linebot_Reply_Wiki.py 
 
 
 #服務器
